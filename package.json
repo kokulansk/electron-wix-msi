@@ -1,13 +1,12 @@
 {
-  "name": "electron-wix-msi",
+  "name": "electron-wix-msi-updated",
   "version": "2.2.0",
   "description": "Creates an MSI installer for your Electron app",
   "license": "MIT",
   "repository": "",
   "author": {
-    "name": "Felix Rieseberg",
-    "email": "felix@felixrieseberg.com",
-    "url": "https://www.felixrieseberg.com"
+    "name": "Kokulan Sivasubramaniam",
+    "email": "kokulansk@gmail.com"
   },
   "keywords": [
     "wix",
